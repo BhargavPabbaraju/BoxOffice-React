@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BoxOffice-React/static/css/main.b2586571.css",
+    "main.js": "/BoxOffice-React/static/js/main.e9e4a475.js",
+    "static/js/787.6e354c4d.chunk.js": "/BoxOffice-React/static/js/787.6e354c4d.chunk.js",
+    "service-worker.js": "/BoxOffice-React/service-worker.js",
+    "index.html": "/BoxOffice-React/index.html",
+    "main.b2586571.css.map": "/BoxOffice-React/static/css/main.b2586571.css.map",
+    "main.e9e4a475.js.map": "/BoxOffice-React/static/js/main.e9e4a475.js.map",
+    "787.6e354c4d.chunk.js.map": "/BoxOffice-React/static/js/787.6e354c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2586571.css",
+    "static/js/main.e9e4a475.js"
+  ]
+}
